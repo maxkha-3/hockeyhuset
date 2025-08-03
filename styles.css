@@ -404,3 +404,36 @@ body {
     height: auto;
     border-radius: 8px;
 }
+
+.recensioner {
+    background: #111;
+    color: white;
+    padding: 2rem 1rem;
+    text-align: center;
+}
+
+.recensioner h2 {
+    margin-bottom: 1rem;
+    font-size: 1.8rem;
+}
+
+.recension {
+    margin: 1rem auto;
+    max-width: 600px;
+    padding: 1rem;
+    background: #1a1a1a;
+    border-radius: 10px;
+}
+
+.recension p:first-of-type {
+    font-size: 1.2rem;
+    color: gold;
+    margin-bottom: 0.5rem;
+}
+
+.recension span {
+    display: block;
+    margin-top: 0.5rem;
+    color: #aaa;
+    font-size: 0.9rem;
+}
